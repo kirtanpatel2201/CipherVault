@@ -21,9 +21,8 @@ A **secure encrypted storage system** built with Python and Streamlit, featuring
 
 1. Clone this repository:
 
-bash
 git clone https://github.com/kirtanpatel2201/Cryptographic-vault.git
-cd cryptographic_vault
+cd Cryptographic-vault/cryptographic_vault
 
 2. Install dependencies:
 
