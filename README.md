@@ -20,18 +20,18 @@ A **secure encrypted storage system** built with Python and Streamlit, featuring
 ## Installation
 
 1. Clone this repository:
-
+```
 git clone https://github.com/kirtanpatel2201/CipherVault.git
 cd Cryptographic-vault/cryptographic_vault
-
+```
 2. Install dependencies:
-
+```
 pip install -r requirements.txt
-
+```
 3. Run the app:
-
+```
 streamlit run app.py
-
+```
 
 ## Security Notes
 
